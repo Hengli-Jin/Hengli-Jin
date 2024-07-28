@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hengli-Jin
 - 👀 I’m interested in MEC optimization, SDN network and Machine Leaning algorithms
-- 🌱 I’m currently a PhD student in Melbourne
+- 🌱 I’m currently a Reserach student in Melbourne
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
